@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    text-transform: uppercase;
+}
+
+.job-title {
+    text-transform: uppercase;
+}
+
+.skills-list li {
+    list-style: none;
+}
